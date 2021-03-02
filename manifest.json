@@ -1,0 +1,10 @@
+{
+    "name": "Cycle Sheets",
+    "version": "1.0",
+    "description": "To add classes to calendar based on your cycle sheet!",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_title": "Canvas"
+    }
+}
